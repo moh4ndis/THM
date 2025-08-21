@@ -46,7 +46,7 @@ ls -la
 get -
 ```
 
-![image.png](attachment:0a525e6e-37ab-4dff-be9d-057a5b852f73:image.png)
+
 
 ```bash
 cp - test
